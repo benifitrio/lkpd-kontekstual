@@ -1,0 +1,1566 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="29"><page Index="1"><![CDATA[LKPD
+
+
+
+
+
+
+
+
+
+
+
+        L             K                P               D
+
+
+
+
+
+
+
+
+
+
+
+
+        S P L D V
+
+
+
+
+        Sistem Persamaan Linear Dua Variabel
+
+              Berbasis Pembelajaran Kontekstual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                          Untuk SMP/MTs
+          Nama    :
+                                                                                                 KELAS
+
+
+          Kelas     :
+
+
+          Sekolah :]]></page><page Index="2"><![CDATA[LKPD
+
+
+
+                            L             K               P                D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         Berbasis Pendekatan Kontekstual
+
+
+                    Sistem Persamaan Linear Dua Variabel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  Disusun Oleh:
+                                                                                Fathul Mungin
+
+
+
+                                                                                   Design Asset:
+
+                                                                                              Canva]]></page><page Index="3"><![CDATA[Kata Pengantar
+
+
+
+
+
+
+
+                  Puji dan syukur penulis panjatkan ke hadirat Tuhan Yang Maha Esa karena
+
+             atas  rahmat  dan  karunia-Nya,  penulis  dapat  menyusun  dan  menyajikan  E-
+
+             LKPD  (Lembar  Kerja  Peserta  Didik  Elektronik)  berbasis  Pendekatan
+
+             Kontekstual  pada  materi  Sistem  Persamaan  Linear  Dua  Variabel  (SPLDV)
+
+             untuk  kelas  VIII  SMP,  sebagai  salah  satu  media  pembelajaran  dalam
+
+             mendukung implementasi Kurikulum Merdeka.
+
+                             LKPD  ini  dirancang  untuk  memberikan  pengalaman  belajar  yang
+
+             bermakna,  aktif,  dan  kontekstual  bagi  peserta  didik.  Melalui  pendekatan
+
+             kontekstual, siswa diarahkan untuk mengaitkan konsep matematika dengan
+
+             kehidupan  sehari-hari,  sehingga  pembelajaran  menjadi  lebih  relevan  dan
+
+             mendorong terciptanya pemahaman yang lebih mendalam.
+
+                      Penyusunan LKPD ini tidak lepas dari berbagai referensi dan dukungan
+
+             dari  berbagai  pihak.  Oleh  karena  itu,  penulis  menyampaikan  ucapan  terima
+
+             kasih kepada semua pihak yang telah membantu dalam proses penyusunan
+
+             dan pengembangan perangkat pembelajaran ini.
+
+                     Dengan segala keterbatasan yang ada, penulis menyadari bahwa dalam
+
+             penulisan  LKPD  ini  masih  jauh  dari  sempurna.  Semoga  LKPD  ini  dapat
+
+             memberikan  manfaat  dan  mampu  memberikan  nilai  tambah  kepada  para
+
+             pembaca.
+
+             Aamiin...
+
+
+
+                                                                                 Metro,  2 Juli 2025
+
+
+
+
+
+
+
+                                                                                 Fathul Mungin]]></page><page Index="4"><![CDATA[Daftar Isi
+
+
+
+
+
+
+
+
+             HALAMAN JUDUL................................................................................................................................  i
+
+             KATA PENGANTAR.............................................................................................................................. ii
+
+             DAFTAR ISI............................................................................................................................................... iii
+
+             PENDAHULUAN.................................................................................................................................... iv
+
+             PETUNJUK PENGGUNAAN............................................................................................................. vii
+
+             CP dan ATP.............................................................................................................................................. ix
+
+             AKTIVITAS 1 Eksplorasi Masalah Sehari-hari untuk Memahami SPLDV............... 2
+
+                  Masalah 1.1 Memahami Konsep SPLDV............................................................................. 3
+
+                  Masalah 1.2 Menyusun Model Matematika dari Masalah SPLDV....................... 7
+
+             AKTIVITAS 2 Menyelesaikan Sistem Persamaan Linear Dua Variabel.................. 12
+
+                   Masalah 2.1 Menyelesaikan SPLDV dengan metode substitusi......................... 13
+
+                   Masalah 2.2 Menyelesaikan SPLDV dengan metode eliminasi......................... 18
+
+             ASESMEN SUMATIF............................................................................................................................ 22
+
+             DAFTAR PUSTAKA............................................................................................................................... 30]]></page><page Index="5"><![CDATA[Pendahuluan
+
+
+
+
+
+
+
+
+                     Deskripsi
+
+
+                               E-LKPD  ini  disusun  berdasarkan  pendekatan  kontekstual  untuk
+             membantu  peserta  didik  memahami  materi  Sistem  Persamaan  Linear  Dua
+
+             Variabel  (SPLDV)  secara  lebih  bermakna  dan  relevan  dengan  kehidupan
+
+             sehari-hari.  Melalui  pendekatan  ini,  peserta  didik  diajak  untuk  mengaitkan
+             konsep matematika dengan situasi nyata yang sering mereka jumpai.
+
+                                 E-LKPD  ini  dapat  diakses  secara  digital  melalui  perangkat  komputer
+
+             maupun  gawai,  dan  mendukung  pembelajaran  mandiri  maupun  kolaboratif.
+             Diharapkan, melalui E-LKPD ini, peserta didik lebih termotivasi dan aktif dalam
+
+             proses pembelajaran matematika.
+             LKPD ini dirancang dengan memuat tujuh prinsip utama CTL, yaitu:
+
+               1.Konstruktivisme (Constructivism) – Siswa diajak membangun pemahaman
+
+                 sendiri melalui pengalaman memecahkan masalah kontekstual.
+               2.Menemukan  (Inquiry)  –  Kegiatan  dalam  LKPD  menuntun  siswa  untuk
+
+                 menyelidiki,  menemukan,  dan  menyusun  model  matematika  dari
+
+                 permasalahan sehari-hari.
+               3.Bertanya  (Questioning)  –  Pertanyaan-pertanyaan  terbuka  disajikan  untuk
+
+                 merangsang pemikiran kritis dan eksplorasi konsep.
+
+               4.Masyarakat  Belajar  (Learning  Community)  –  LKPD  ini  mendorong
+                 kolaborasi antar siswa dalam diskusi kelompok dan berbagi ide.
+
+               5.Pemodelan  (Modeling)  –  Contoh-contoh  permasalahan  diberikan  untuk
+                 menunjukkan  bagaimana  konsep  matematika  digunakan  dalam  dunia
+
+                 nyata.
+
+               6.Refleksi (Reflection) – Siswa diajak merefleksikan pemahaman dan proses
+                 belajar mereka melalui pertanyaan akhir dan catatan refleksi.
+
+               7.Penilaian  Autentik  (Authentic  Assessment)  –  Tugas  dalam  LKPD
+                 mencerminkan  kemampuan  siswa  menerapkan  SPLDV  dalam  konteks
+
+                 nyata, bukan hanya sekadar menyelesaikan soal abstrak.]]></page><page Index="6"><![CDATA[Petunjuk LKPD
+
+
+
+                     Untuk pemahaman lebih maksimal, langkah-langkah yang perlu kalian
+
+             lakukan pada kegiatan pembelajaran LKPD ini sebagai berikut:
+
+               1.Berdoalah sebelum memulai pembelajaran.
+
+               2.Tulis identitas pada tempat yang tersedia.
+
+               3.Lakukan  kegiatan  sesuai  langkah  yang  ada  dan  isilah  jawabanmu  pada
+
+                 kolom yang disediakan dengan jujur, teliti, dan bertanggung jawab!
+
+               4.Berusahalah untuk bisa memecahkan setiap permasalahan yang terdapat
+
+                 dalam  LKPD  ini.  Setiap  usaha  yang  kamu  lakukan  akan  membuatmu
+
+                 makin memahami materi-materi dalam LKPD ini.
+
+               5.Diskusikan kegiatan yang dilakukan bersama teman kelompokmu!
+
+               6.Tanyakan kepada guru jika kalian mengalami kesulitan dalam memahami
+
+                 isi lembar kegiatan.
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Masalah dalam hidup tidak selalu bisa
+
+                                       dihindari, tapi bisa diselesaikan—sama
+
+                                        seperti sistem persamaan, semua ada
+
+                                    solusinya jika kita mau berpikir dan mencoba]]></page><page Index="7"><![CDATA[CP dan ATP
+
+
+
+
+
+
+
+                  Capaian Pembelajaran
+
+
+
+
+
+             Di  akhir  fase  D  peserta  didik  dapat  mengenali,  memprediksi  dan
+
+             menggeneralisasi  pola  dalam  bentuk  susunan  benda  dan  bilangan.  Mereka
+
+             dapat  menyatakan  suatu  situasi  ke  dalam  bentuk  aljabar.  Mereka  dapat
+
+             menggunakan  sifat-sifat  operasi  (komutatif,  asosiatif,  dan  distributif)  untuk
+
+             menghasilkan bentuk aljabar yang ekuivalen. Peserta didik dapat memahami
+
+             relasi dan fungsi (domain, kodomain, range) dan menyajikannya dalam bentuk
+
+             diagram  panah,  tabel,  himpunan  pasangan  berurutan,  dan  grafik.  Mereka
+
+             dapat membedakan beberapa fungsi nonlinear dari fungsi linear secara grafik.
+
+             Mereka  dapat  menyelesaikan  persamaan  dan  pertidaksamaan  linear  satu
+
+             variabel. Mereka dapat menyajikan, menganalisis, dan menyelesaikan masalah
+
+             dengan  menggunakan  relasi,  fungsi  dan  persamaan  linear.  Mereka  dapat
+
+             menyelesaikan  sistem  persaman  linear  dua  variabel  melalui  beberapa  cara
+
+             untuk penyelesaian masalah.]]></page><page Index="8"><![CDATA[Alur Tujuan Pembelajaran
+
+
+
+
+
+
+               Kelas                 8 (Delapan)/Fase D
+
+
+
+               Elemen                Aljabar
+
+
+
+               Profil Pelajar
+                                     Kreatif, Bernalar Kritis, Mandiri
+               Pancasila
+
+
+
+                                       1.Mengenali sistem persamaan linear dua variabel dan
+
+                                         mengetahui arti penyelesaiannya.
+
+                                       2.Membuat  sistem  persamaan  linear  dua  variabel  ke
+
+                                         dalam model matematika dari sebuah permasalahan.
+
+                                       3.Menyelesaikan          masalah        kontekstual        sistem
+
+                                         persamaan  linear  dua  variabel  dengan  metode
+               Tujuan
+                                         eliminasi.
+               Pembelajaran
+                                      4.Menyelesaikan           masalah        kontekstual        sistem
+
+                                         persamaan  linear  dua  variabel  dengan  metode
+
+                                         substitusi.
+
+                                       5.Menyelesaikan          masalah        kontekstual        sistem
+
+                                         persamaan  linear  dua  variabel  dengan  metode
+
+                                         eliminasi - substitusi.]]></page><page Index="9"><![CDATA[Setiap usaha yang kamu lakukan hari ini,
+
+                                   adalah pijakan untuk keberhasilanmu esok
+
+
+                                   hari. Teruslah mencoba, walau pelan, asal
+
+                                                    tidak berhenti]]></page><page Index="10"><![CDATA[Apersepsi
+                                                         S i s t e m   P e r s a m a a n   L i n e a r   D u a   V a r i a b e l
+                                                         Sistem Persamaan Linear Dua Variabel
+                               Pernahkah  kamu  membeli  beberapa  barang  sekaligus,  seperti  dua
+
+
+             bungkus mie dan satu botol teh, lalu tahu total harganya, tapi tidak tahu harga
+             masing-masing barang?
+
+
+             Atau,  kamu  melihat  dua  orang  membeli  barang  yang  sama  dengan  jumlah
+             berbeda,  dan  membayar  dengan  jumlah  yang  juga  berbeda.  Apakah  kamu
+
+
+             bisa menebak harga satuannya hanya berdasarkan informasi itu?
+                      Masalah-masalah seperti ini sering kita temui dalam kehidupan sehari-
+
+
+             hari.  Nah,  hari  ini  kamu  akan  belajar  bagaimana  memodelkan  masalah-
+             masalah  tersebut  ke  dalam  bentuk  matematika,  lalu  menyelesaikannya
+
+
+             menggunakan Sistem Persamaan Linear Dua Variabel (SPLDV).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Di  suatu  pagi,  Dita  pergi  ke  toko  alat  tulis  untuk  membeli  beberapa
+
+             perlengkapan sekolah. Ia membeli 2 pensil dan 3 buku catatan, lalu membayar
+
+             Rp12.000 di kasir. Tak lama kemudian, Rian datang dan membeli 1 pensil dan 5
+             buku. Ia membayar Rp15.000 untuk seluruh belanjaannya. Mereka berdua lalu
+
+             saling  bertanya-tanya,  “Berapa  ya  sebenarnya  harga  satu  pensil  dan  satu
+             buku?” Dita pun mulai mencoba menebak-nebak. “Kalau 2 pensil dan 3 buku
+
+             Rp12.000,  dan  1  pensil  dan  5  buku  Rp15.000,  kira-kira  berapa  harga  masing-
+             masingnya?”
+
+                     Nah, dari cerita di atas, menurutmu, apakah mungkin kita bisa mencari
+             tahu  harga  satu  pensil  dan  satu  buku?  Jika  mungkin,  bagaimana  caramu
+
+             menyelesaikannya?
+                   Untuk dapat menjawab permasalahan tersebut, Yuk kita pelajari bersama-
+
+             sama materi setelah ini!]]></page><page Index="11"><![CDATA[AKTIVITAS                 EKSPLORASI MASALAH SEHARI-HARI
+
+                                                 UNTUK MEMAHAMI SPLDV
+
+
+
+
+
+
+
+
+               Alokasi Waktu:
+                 4 Pertemuan
+
+
+
+
+                   Kelompok                        :
+
+                   Nama Anggota Kelompok           :
+
+                   1..............................................................................................................................
+                   2.............................................................................................................................
+
+                   3.............................................................................................................................
+
+                   4.............................................................................................................................
+
+                   5.............................................................................................................................
+
+
+
+
+
+
+
+                                                       Setelah  mempelajari  LKPD  dengan  materi
+                   Tujuan Pembelajaran
+                                                       mengenai  Sistem  Persamaan  Linear  Dua
+                                                       Variabel, kamu diharapkan dapat:
+
+
+
+
+                1.Mengenali  sistem  persamaan  linear  dua  variabel  dan  mengetahui  arti
+
+                  penyelesaiannya.
+
+                2.Membuat  sistem  persamaan  linear  dua  variabel  ke  dalam  model
+
+                  matematika dari sebuah permasalahan.]]></page><page Index="12"><![CDATA[Masalah 1.1
+                                                        M e m a h a m i   S i s t e m   P e r s a m a a n   L i n e a r   D u a   V a r i a b e l
+                                                        Memahami Sistem Persamaan Linear Dua Variabel
+
+             Sebelum  mempelajari  Sistem  Persamaan  Linear  Dua  Variabel  (SPLDV),
+
+             penting bagi kita untuk memahami beberapa hal dasar terlebih dahulu. amu
+
+             tentu sudah pernah belajar tentang persamaan linear satu variabel, seperti:
+
+                 2x + 5 = 11
+
+             dan  bagaimana  cara  menyelesaikannya  untuk  mencari  nilai  x.  Kamu  juga
+
+             telah mengenal bentuk aljabar, seperti 3x + 2y. Pengetahuan-pengetahuan ini
+
+             akan  membantu  kamu  menyusun  dan  menyelesaikan  SPLDV,  yaitu  dua
+
+             persamaan  linear  dengan  dua  variabel,  untuk  menemukan  solusi  dari  suatu
+
+             situasi nyata.
+
+
+
+               Ayo Amati
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                Sumber: pinterest.com
+                                                    Tiket Bioskop
+
+             Hari  Minggu  pagi,  Lani  dan  Raka  sepakat  untuk  menonton  film  animasi
+
+             terbaru di bioskop. Mereka membeli tiket di loket yang sama, namun dengan
+
+             jumlah tiket yang berbeda. Lani membeli 2 tiket dewasa dan 1 tiket anak-anak
+
+             dan membayar Rp75.000. Sementara itu, Raka membeli 1 tiket dewasa dan 2
+
+             tiket  anak-anak  dengan  total  pembayaran  Rp70.000.  Lani  dan  Raka
+
+             penasaran, sebenarnya berapa harga satu tiket dewasa dan berapa harga satu
+
+             tiket anak-anak?]]></page><page Index="13"><![CDATA[1.  Tuliskan informasi penting dari permasalahan di atas.
+
+             (Misalnya: jumlah tiket yang dibeli Lani dan Raka, serta total harga masing-
+
+             masing.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          2.  Jika  harga  satu  tiket  dewasa  adalah  Rp   x,  dan  harga  satu  tiket  anak-anak
+
+             adalah Rp  y, tuliskan persamaan yang menyatakan pembelian Lani!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          3.  Tuliskan pula persamaan berdasarkan pembelian Raka!]]></page><page Index="14"><![CDATA[4.  Tulis kedua persamaan linear dalam bentuk matematika!
+
+             (Petunjuk: Gunakan variabel x dan y untuk mewakili harga tiket.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          5.  Apa  yang  dimaksud  dengan  penyelesaian  dari  sistem  persamaan  linear  dua
+
+             variabel tersebut dalam konteks cerita?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          6.  Permasalahan  diatas  adalah  salah  satu  contoh  dari  permasalahan  dalam
+
+             “Sistem Persamaan Linear Dua variabel”.
+
+             Lalu apakah yang dapat kamu katakan tentang materi ini?
+
+             Apa kesimpulanmu dari materi ini?]]></page><page Index="15"><![CDATA[Refleksi
+                                                 A p a k a h   k a l i a n   s u d a h   m e m a h a m i   k e g i a t a n   1   i n i ?
+                                                 Apakah kalian sudah memahami kegiatan 1 ini?
+
+             Isilah tabel berikut dengan tanda centang (✓) sesuai pemahamanmu sehingga
+
+             dapat  dijadikan  penilaian  diri  setelah  mengikuti  proses  pembelajaran  pada
+
+             kegiatan 1 ini. Jawablah dengan jujur dan bertanggungjawab!
+
+
+
+
+               NO                              Pertanyaan                                 Ya       Tidak
+
+
+                       Sistem Persamaan Linear Dua Variabel (SPLDV)
+
+                       sangat berguna untuk menyelesaikan masalah
+                1
+                       sehari-hari, seperti menentukan harga suatu
+
+                       barang berdasarkan informasi total pembelian.
+
+
+
+                       Dengan memodelkan situasi nyata ke dalam
+
+                2      bentuk matematika, saya belajar untuk berpikir
+
+                       logis, terstruktur, dan sistematis.
+
+
+
+                       Proses menyusun persamaan dari cerita
+
+                3      membutuhkan ketelitian dalam membaca dan
+
+                       memahami informasi penting.
+
+
+
+
+
+
+
+
+
+                         J a w a b l a h   p e r t a n y a a n   r e f l e k t i f   b e r i k u t   i n i   d e n g a n   j u j u r :
+                         Jawablah pertanyaan reflektif berikut ini dengan jujur:
+
+             1.Apa hal paling menarik yang kamu pelajari dari aktivitas ini?
+
+             2.Bagian  mana  yang  menurutmu  masih  membingungkan  atau  perlu
+
+               dipelajari lebih lanjut?
+
+             3.Jika kamu menemui masalah serupa di kehidupan sehari-hari, apakah kamu
+
+               merasa siap menyelesaikannya? Jelaskan alasannya.]]></page><page Index="16"><![CDATA[Masalah 1.2
+                                                        M e n y u s u n   M o d e l   M a t e m a t i k a   d a r i   M a s a l a h   S P L D V
+                                                        Menyusun Model Matematika dari Masalah SPLDV
+
+             Setelah  kamu  membaca  cerita  tentang  pembelian  tiket  oleh  Lani  dan  Raka,
+
+             kamu tentu tahu bahwa ada dua jenis tiket yang berbeda, yaitu tiket dewasa
+
+             dan  tiket  anak-anak.  Dari  cerita  itu,  kita  bisa  menyusun  model  matematika
+
+             supaya permasalahan bisa dihitung dan diselesaikan dengan cara yang lebih
+
+             jelas.
+
+             Yuk,  kita  belajar  cara  mengubah  permasalahan  matematika  menjadi  model
+
+             matematika!
+
+               Ayo Amati
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             Sumber: timesindonesia.co.id
+                                                      Toko ATK
+
+             Suatu  hari  di  akhir  pekan,  Bu  Rina  mengajak  anaknya  pergi  ke  sebuah  toko
+
+             alat tulis untuk membeli perlengkapan sekolah. Anak Bu Rina membutuhkan
+
+             beberapa buku tulis dan pensil baru untuk persiapan belajar. Setelah memilih
+
+             barang yang diperlukan, Bu Rina membawa 3 buku tulis dan 2 pensil ke kasir.
+
+             Setelah  dihitung,  total  belanjaan  Bu  Rina  adalah  Rp19.000.  Beberapa  saat
+
+             kemudian, Pak Dedi yang juga berbelanja di toko yang sama, membeli 2 buku
+
+             tulis dan 4 pensil untuk keperluan pelatihan yang ia selenggarakan di desanya.
+
+             Setelah semua barang dicatat oleh petugas toko, Pak Dedi membayar sebesar
+
+             Rp20.000. Keduanya membeli barang yang sama, yaitu buku tulis dan pensil,
+
+             hanya dengan jumlah yang berbeda.
+
+             Sekarang,  mari  kita  bantu  Bu  Rina  dan  Pak  Dedi  untuk  mengetahui:
+
+             Berapakah harga 1 buku tulis dan 1 pensil tersebut?]]></page><page Index="17"><![CDATA[1.  a. Siapa saja yang membeli barang?
+
+             b. Apa saja yang dibeli oleh Bu Rina dan Pak Dedi?
+
+             c. Berapa uang yang dibayarkan oleh masing-masing?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          2.  Misalkan harga buku tulis adalah … dan harga pensil adalah …
+
+             Tuliskan definisi untuk tiap variabel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          3.  Bu Rina membeli 3 buku tulis dan 2 pensil seharga Rp19.000.
+
+             Tuliskan persamaan matematikanya!]]></page><page Index="18"><![CDATA[4.  Pak Dedi membeli 2 buku tulis dan 4 pensil seharga Rp20.000.
+
+              Tuliskan persamaan matematikanya!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          5.  Tuliskan kedua persamaan tersebut sebagai sistem SPLDV!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          6.  Apa  kesimpulan  yang  dapat  kamu  tuliskan  mengenai  model  matematika
+
+             pada SPLDV? Coba tuliskan definisi tersebut berdasarkan pemahaman kalian!]]></page><page Index="19"><![CDATA[AKTIVITAS
+                                        MENYELESAIKAN SISTEM PERSAMAAN
+
+                                             LINEAR DUA VARIABEL (SPLDV)
+
+
+
+
+
+
+
+
+               Alokasi Waktu:
+                 4 Pertemuan
+
+
+
+
+                   Kelompok                        :
+
+                   Nama Anggota Kelompok           :
+
+                   1..............................................................................................................................
+                   2.............................................................................................................................
+
+                   3.............................................................................................................................
+
+                   4.............................................................................................................................
+
+                   5.............................................................................................................................
+
+
+
+
+
+
+
+                                                       Setelah  mempelajari  LKPD  dengan  materi
+                   Tujuan Pembelajaran
+                                                       mengenai  Sistem  Persamaan  Linear  Dua
+                                                       Variabel, kamu diharapkan dapat:
+
+
+
+
+                1.Menyelesaikan  masalah  kontekstual  sistem  persamaan  linear  dua
+
+                  variabel dengan metode eliminasi.
+
+                2.Menyelesaikan  masalah  kontekstual  sistem  persamaan  linear  dua
+
+                  variabel dengan metode substitusi.]]></page><page Index="20"><![CDATA[Masalah 2.1
+                                                        M e n y e l e s a i k a n   S P L D V   d e n g a n   M e t o d e   S u b s t i t u s i
+                                                        Menyelesaikan SPLDV dengan Metode Substitusi
+
+             Kalian  pasti  pernah,  kan,  belanja  barang  yang  sama  tapi  dengan  jumlah
+
+             berbeda, lalu jadi penasaran… “Sebenarnya harga satuannya berapa sih?” Nah,
+
+             masalah  seperti  itu  bisa  diselesaikan  dengan  yang  namanya  Sistem
+
+             Persamaan Linear Dua Variabel atau disingkat SPLDV.
+
+             Kali  ini,  kita  akan  belajar  menyelesaikan  SPLDV  dengan  cara  substitusi.  Eits,
+
+             jangan  takut  dulu  sama  kata  “substitusi”!  Sebenarnya,  substitusi  itu  artinya
+
+             mengganti. Kita akan mengganti salah satu variabel dengan nilai dari variabel
+
+             yang lain. Ibaratnya, kita saling tukar peran untuk mencari tahu jawabannya!
+
+             Melalui     aktivitas    ini,   kalian    akan     belajar     langkah-langkah        mudah
+
+             menyelesaikan SPLDV dengan metode substitusi dari sebuah masalah cerita.
+
+             Kalian  juga  akan  berlatih  menuliskan  model  matematika  dan  mencari
+
+             penyelesaiannya.
+
+
+               Ayo Amati
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Sumber: kibrispdr.org
+                                                       Toko Buah
+             Suatu  pagi,  Bu  Fitri  pergi  ke  pasar  bersama  dua  anaknya,  Yesi  dan  Haikal,
+
+             untuk membeli buah-buahan segar. Bu Fitri meminta anak-anaknya memilih
+
+             sendiri buah yang mereka suka. Yesi memilih 3 kg anggur dan 2 kg mangga,
+
+             dan  setelah  ditimbang,  pedagang  menyebut  harganya  Rp165.000.  Haikal
+
+             memilih  2  kg  anggur  dan  1  kg  mangga,  dengan  harga  Rp100.000.  Semua
+
+             dibeli  dari  pedagang  yang  sama  dan  pada  waktu  yang  sama.  Setelah  anak-
+
+             anak  selesai  memilih,  Bu  Fitri  membayar  semua  buah  itu  dengan  empat
+
+             lembar uang seratus ribuan.]]></page><page Index="21"><![CDATA[Namun  sebelum  pedagang  memberikan  uang  kembalian,  Bu  Fitri
+
+             memutuskan untuk membeli lagi 1 kg anggur dan 2 kg mangga. Sekarang Bu
+
+             Fitri ingin tahu, berapa uang kembalian yang harus dia terima dari pedagang
+
+             itu?  Agar  bisa  membantu  Bu  Fitri,  kamu  perlu  mengetahui  dulu  harga  1  kg
+
+             anggur dan 1 kg mangga, lho!
+
+
+          1.  Berdasarkan permasalahan diatas, informasi apa yang kamu dapatkan?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          2.  Misalkan: Harga 1 kg anggur adalah x rupiah dan Harga 1 kg mangga adalah y
+
+             rupiah. Tuliskan dua persamaan berdasarkan pembelian Yesi dan Haikal!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          3.  Dari kedua persamaan yang kamu peroleh, coba ubah salah satu persamaan
+
+             agar salah satu variabel (x atau y) dinyatakan dalam bentuk variabel lainnya.
+
+             (Contoh: Jika kamu punya 2x + y = 100.000, maka ubahlah menjadi y = …)]]></page><page Index="22"><![CDATA[4.  Masukkan bentuk itu ke dalam persamaan lainnya.
+
+             Hitung sampai kamu menemukan nilai dari satu variabel.
+
+             Setelah menemukan satu variabel, carilah nilai variabel lainnya.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          5.  Menemukan Harga Buah
+
+             a. Jadi, berapa harga 1 kg anggur?
+
+             b. Berapa harga 1 kg mangga?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          6.  Berapa total harga dari pembelian Yesi dan Haikal? Hitung harga tambahan
+
+             pembelian Bu Siti (1 kg anggur + 2 kg mangga). Hitung total semua belanja.
+
+             Jika  Bu  Siti  membayar  dengan  empat  lembar  Rp100.000,  berapa  uang
+
+             kembaliannya?]]></page><page Index="23"><![CDATA[Refleksi
+                                                 A p a k a h   k a l i a n   s u d a h   m e m a h a m i   k e g i a t a n   2   i n i ?
+                                                 Apakah kalian sudah memahami kegiatan 2 ini?
+
+             Isilah tabel berikut dengan tanda centang (✓) sesuai pemahamanmu sehingga
+
+             dapat  dijadikan  penilaian  diri  setelah  mengikuti  proses  pembelajaran  pada
+
+             kegiatan 2 ini. Jawablah dengan jujur dan bertanggungjawab!
+
+
+
+               NO                              Pertanyaan                                 Ya       Tidak
+
+
+
+                        Saya dapat mengubah informasi soal cerita
+                1.
+                        menjadi dua persamaan matematika.
+
+
+
+                        Saya bisa menyusun salah satu persamaan agar
+
+                2.      salah satu variabel dinyatakan dalam bentuk
+
+                        variabel lainnya.
+
+
+
+                        Saya dapat mengganti (mensubstitusi) variabel
+                3.
+                        tersebut ke persamaan lainnya.
+
+
+
+                        Saya merasa metode ini memudahkan saya
+                4.
+                        menyelesaikan sistem persamaan.
+
+
+
+
+
+
+
+
+                         J a w a b l a h   p e r t a n y a a n   r e f l e k t i f   b e r i k u t   i n i   d e n g a n   j u j u r :
+                         Jawablah pertanyaan reflektif berikut ini dengan jujur:
+             1.Apa yang kamu pahami tentang soal cerita yang kamu selesaikan? (Tuliskan
+
+
+               bagaimana  kamu  mengubah  informasi  dari  cerita  menjadi  bentuk
+               persamaan)
+
+
+             2.Bagaimana  caramu  menentukan  variabel  yang  akan  disubstitusikan?
+               (Ceritakan langkah-langkah yang kamu lakukan sampai bisa menemukan
+
+
+               nilai dari salah satu variabel).]]></page><page Index="24"><![CDATA[Masalah 2.2
+                                                        M e n y e l e s a i k a n   S P L D V   d e n g a n   M e t o d e   E l i m i n a s i
+                                                        Menyelesaikan SPLDV dengan Metode Eliminasi
+
+             Pernah  nggak  kamu  melihat  dua  orang  menawar  barang  yang  sama  tapi
+
+             dengan  cara  yang  berbeda?  Nah,  dalam  matematika,  kita  juga  punya
+
+             beberapa  cara  untuk  "menawar"  atau  menyelesaikan  soal  SPLDV  loh!  Kalau
+
+             sebelumnya  kamu  sudah  mencoba  menyelesaikan  SPLDV  dengan  metode
+             substitusi,  sekarang  saatnya  kamu  mencoba  metode  lain  yang  nggak  kalah
+
+             seru, yaitu metode eliminasi.
+
+             Namanya aja “eliminasi”, artinya kita akan menghilangkan salah satu variabel
+
+             supaya  lebih  mudah  menemukan  nilai  variabel  lainnya.  Bayangin  kamu  lagi
+
+             main sulap kamu “menghilangkan” satu bagian dari soal supaya sisanya lebih
+
+             gampang  diselesaikan!  Yuk,  kita  mulai  tantangannya  dan  lihat  bagaimana
+             kemampuanmu dalam menyelesaikan SPLDV dengan metode eliminasi!
+
+
+
+
+               Ayo Amati                          Pahami cerita di bawah ini dengan cermat!
+
+
+             Pada  suatu  hari  yang  cerah,  Fajar  menaiki  motor.  Di  tengah  perjalanan,  Ia
+
+             tidak sengaja berpapasan dengan Sonia yang sedang membawa plastik berisi
+
+             minyak makan dan gula putih. Sonia bercerita bahwa ia membeli 2 kg minyak
+
+             makan  dan  4  kg  gula  putih  seharga  Rp80.000  di  toko  Sentosa.  Saat
+             melanjutkan  perjalanan,  Fajar  bertemu  dengan  Bu  Fia  yang  juga  membawa
+
+             minyak  makan  dan  gula  putih.  Bu  Fia  mengatakan  bahwa  ia  membeli  1  kg
+
+             minyak makan dan 3 kg gula putih seharga Rp52.000.
+
+
+             Fajar  pun  mulai  berpikir,  “Apakah  uangku
+
+             yang Rp80.000 cukup untuk membeli 3 kg
+
+             minyak makan dan 2 kg gula putih di toko
+             yang sama?”
+
+             Yuk, bantu Fajar menjawabnya!]]></page><page Index="25"><![CDATA[1.  Berdasarkan permasalahan diatas, informasi apa yang kamu dapatkan?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          2.  Tentukan variabelnya terlebih dahulu.
+
+              Misalkan:
+
+             Harga 1 kg minyak makan = …
+
+             Harga 1 kg gula putih = …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          3.  Tuliskan dua persamaan berdasarkan informasi dari Sonia dan Bu Fia!]]></page><page Index="26"><![CDATA[4.  Dari dua persamaan yang kamu buat, coba kamu ubah salah satu persamaan
+
+             agar  bisa  menghilangkan  salah  satu  variabelnya  saat  dijumlahkan  atau
+
+             dikurangkan.  Lakukan  langkah-langkah  yang  diperlukan  untuk  menemukan
+
+             nilai variabel tersebut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          5.  Setelah kamu tahu harga 1 kg minyak dan 1 kg gula, hitung berapa total harga
+
+             yang harus dibayar Fajar jika membeli 3 kg minyak dan 2 kg gula putih.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          6.  Apakah uang Fajar sebesar Rp80.000 cukup? Jelaskan alasanmu!]]></page><page Index="27"><![CDATA[Refleksi
+                                                 A p a k a h   k a l i a n   s u d a h   m e m a h a m i   k e g i a t a n   2   i n i ?
+                                                 Apakah kalian sudah memahami kegiatan 2 ini?
+
+             Isilah tabel berikut dengan tanda centang (✓) sesuai pemahamanmu sehingga
+
+             dapat  dijadikan  penilaian  diri  setelah  mengikuti  proses  pembelajaran  pada
+
+             kegiatan 2 ini. Jawablah dengan jujur dan bertanggungjawab!
+
+
+
+               NO                              Pertanyaan                                 Ya       Tidak
+
+
+
+                        Saya memahami langkah-langkah menyelesaikan
+                1.
+                        SPLDV dengan metode eliminasi.
+
+
+
+                        Saya bisa menjelaskan kembali alasan memilih
+                2.
+                        metode eliminasi dalam soal ini.
+
+
+
+                        Saya merasa siap jika diberikan soal cerita sejenis
+                3.
+                        di lain waktu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         J a w a b l a h   p e r t a n y a a n   r e f l e k t i f   b e r i k u t   i n i   d e n g a n   j u j u r :
+                         Jawablah pertanyaan reflektif berikut ini dengan jujur:
+             1.Bagian  mana  dari  proses  penyelesaian  yang  menurutmu  paling
+
+
+               menantang?  Apakah  saat  membuat  model  matematika,  mengeliminasi
+               variabel, atau menemukan hasil akhir?
+
+
+             2.Bagaimana  kamu  memastikan  bahwa  solusi  yang  kamu  dapatkan  benar
+               dan  sesuai  dengan  cerita?  (Coba  ceritakan  bagaimana  kamu  mengecek
+
+
+               kembali jawabanmu.)]]></page><page Index="28"><![CDATA[Daftar Pustaka
+
+
+
+
+
+
+             Kementerian Pendidikan dan Kebudayaan. 2017. "Matematika Untuk SMP/MTs
+
+             Kelas VIII Semester 1". Jakarta : Kementerian Pendidikan dan Kebudayaan
+
+
+             M. Cholik. 2016. "Matematika Untuk SMP/MTS Kelas VIII Semester 1". Jakarta :
+
+
+             Erlangga.
+
+
+             kementerian  Pendidikan  dan  Kebudayaan  RI.  2020.  "Modul  Pembelajaran
+
+             Jarak  Jauh  Pada  Masa  Pandemi  Covid-19  Untuk  SMP  VIII  Semester  Gasal".
+
+             Jakarta : Direktorat Sekolah Menengah Pertama.]]></page><page Index="29"><![CDATA[LKPD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          L             K                P               D
+
+
+
+
+
+
+
+
+
+
+
+
+                          S P L D V
+
+
+
+
+                          Sistem Persamaan Linear Dua Variabel
+
+                                Berbasis Pembelajaran Kontekstual]]></page></pages></Search>
